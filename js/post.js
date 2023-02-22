@@ -25,3 +25,5 @@ function displayPosts(posts) {
 }
 
 loadPosts();
+
+
